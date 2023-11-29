@@ -8,4 +8,4 @@
 * This repo is part of the extra credit question for week 10.
 * The data is sourced from the website [ConcertArchive](https://www.concertarchives.org/bands/neffex?page=1#concert-table)
 
-The data is present in [data/neffex_data.data](data/neffex_data.data) whereas the noteboook for the visualization is present in [notebooks/01-geographical-data.ipynb](notebooks/01-geographical-data.ipynb)
+The data is present in [data/neffex_data.dat](data/neffex_data.dat) whereas the noteboook for the visualization is present in [notebooks/01-geographical-data.ipynb](notebooks/01-geographical-data.ipynb)
