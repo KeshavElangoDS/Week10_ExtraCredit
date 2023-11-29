@@ -1,8 +1,8 @@
 # Data Visualization
 
-# Week 10 - Extra Credit
+## Week 10 - Extra Credit
 
-# Neffex Band Tour 2018 - 2023
+### Neffex Band Tour 2018 - 2023
 
 * This is a repository for the GIS visualization using the `NEFFEX` band data.
 * This repo is part of the extra credit question for week 10.
